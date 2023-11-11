@@ -9,7 +9,7 @@ Main features:
 - Shuffle songs.
 - Repeat only one song.
 
-The app is written on pure Javascript, HTML and CSS.
+The app is written by pure Javascript, HTML and CSS.
 
 ## Project structure
   music-player
@@ -32,10 +32,10 @@ The app is written on pure Javascript, HTML and CSS.
 
 ## Project run 
 1. Open your browser
-2. Go to `music-player` directory
+2. Go to `music-player` directory 
 3. Click on `index.html` file and enjoy the music
 
 ## Local Development
 1. Using an IDE to open `music-player` project directory
 2. Install `LiveServer` extension
-3. Run project with `LiveServer` to start running and developing app
+3. Open `index.html`, right click and choose `Open with LiveServer` to start running and developing app
