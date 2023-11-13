@@ -139,19 +139,19 @@ body {
   /* opacity: 1; */
 }
 
-.btn-active {
-  color: var(--tealGreen);
-}
-
 .fas,
 .song-artist,
 .up-next {
   color: var(--darkGrey);
 }
 
+.btn-active {
+  color: var(--tealGreen);
+}
+
 /* ----------------- MUSIC-LIST ------------------ */
 .play-list {
-  margin: 400px 40px 0 40px;
+  margin: 410px 40px 0 40px;
 }
 
 .song-card {
@@ -228,11 +228,6 @@ body {
 .fa-play-circle {
   color: var(--tealGreen);
   font-size: 55px;
-}
-
-.fa-pause-circle:active,
-.fa-play-circle:active {
-  color: var(--tealGreen);
 }
 
 .control-btns {
